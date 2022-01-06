@@ -1,5 +1,4 @@
 # Universe_project
-This is one my favoritt
 Goal: 
 
  - In this project we worked with file writing, and retrieve data from the file, as well as being able to do both Create, Update and Delete on our data. So that we have the entire    CRUD race (Create, Read, Update and Delete). Data is provided by our lecturer. We used Java to achieve the goal. This is one of my favorite projects.
